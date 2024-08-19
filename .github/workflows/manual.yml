@@ -1,4 +1,4 @@
-name: F3SRP
+name: SRP
 
 on:
   schedule:
